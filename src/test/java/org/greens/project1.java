@@ -19,4 +19,13 @@ System.out.println("5");
 private void china() {
 System.out.println("6");
 }
+private void tamilNadu() {
+System.out.println("6");
+}
+private void kerala() {
+System.out.println("6");
+}
+private void karnataka() {
+System.out.println("6");
+}
 }
