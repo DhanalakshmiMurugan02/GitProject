@@ -10,4 +10,13 @@ System.out.println("2");
 private void method3() {
 System.out.println("3");
 }
+private void india() {
+System.out.println("4");
+}
+private void pakistan() {
+System.out.println("5");
+}
+private void china() {
+System.out.println("6");
+}
 }
